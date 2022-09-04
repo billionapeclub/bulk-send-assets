@@ -1,4 +1,4 @@
-# sending-assets
+# bulk-send-assets
 installing python and needed libraries
 open send_assets - BAC.py and edit the data
 ```
