@@ -1,5 +1,6 @@
 # sending-assets
-installing python and needed libraries:
+installing python and needed libraries
+open send_assets - BAC.py and edit the data
 ```
 wget https://github.com/billionapeclub/sending-assets/blob/main/send_assets%20-%20BAC.py
 sudo apt-get install python3 python3-venv python3-pip -y
@@ -7,7 +8,7 @@ pip install ravenrpc
 python3 send_assets - BAC.py
 ```
 
-open send_assets - BAC.py and edit the data
+
 
 don't forget to change with your own rpc password from the raven.conf file located at ./raven folder
 ```
