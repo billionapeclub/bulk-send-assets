@@ -7,7 +7,9 @@ pip install ravenrpc
 python3 send_assets - BAC.py
 ```
 
-don't forget to change with your own password
+open send_assets - BAC.py and edit the data
+
+don't forget to change with your own rpc password from the raven.conf file located at ./raven folder
 ```
 rpcuser="billionape"
 rpcpassword="ravencointothemoon"
