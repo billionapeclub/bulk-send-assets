@@ -1,4 +1,5 @@
 # sending-assets
+installing python and needed libraries:
 ```
 wget https://github.com/billionapeclub/sending-assets/blob/main/send_assets%20-%20BAC.py
 sudo apt-get install python3 python3-venv python3-pip -y
@@ -28,7 +29,7 @@ data = {
 }
 ```
 
-chnage the wallet address to the address you want to send it to:
+change the wallet address to the address you want to send it to:
 ```
 for ape in data:
     rvn.walletpassphrase('ravencointothemoon', 100)
